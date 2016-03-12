@@ -19,6 +19,8 @@ public class PlaceholderFragment extends Fragment {
 
     private ArrayAdapter<String> FCAdapter;
 
+    int test=9;
+
     public PlaceholderFragment() {
     }
 
